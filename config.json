@@ -1,0 +1,44 @@
+{
+    "theme": "default",
+    "url": "https://links.tufantunc.com",
+    "title": "Tufan Tunç - My Web Links via opentwig 🌿",
+    "name": "Tufan Tunç",
+    "content": "Hello World! You can find me on web via this links.",
+    "minify": true,
+    "avatar": {
+        "path": "avatar.jpg"
+    },
+    "links": [
+        {
+            "url": "https://x.com/tufant",
+            "title": "My X / Twitter"
+        },
+        {
+            "url": "https://www.linkedin.com/in/tufantunc",
+            "title": "My LinkedIn"
+        },
+        {
+            "url": "https://github.com/tufantunc",
+            "title": "My GitHub"
+        },
+        {
+            "url": "https://www.instagram.com/tuftunc/",
+            "title": "My Instagram"
+        }
+    ],
+    "footerLinks": [
+        {
+            "title": "Contact",
+            "content": "It's better to contact me via X / Twitter or LinkedIn."
+        },
+        {
+            "title": "Privacy",
+            "content": "I'm not using any analytics or tracking tools. So, you can use this page without any privacy concerns."
+        }
+    ],
+    "share": {
+        "title": "Tufan Tunç - My Web Links via opentwig 🌿",
+        "url": "https://links.tufantunc.com",
+        "text": "Share"
+    }
+}
